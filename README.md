@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/StephJBow/StephJBow/assets/136998085/5b175f98-8658-4cdd-8cce-631e41bd4fdc" alt="MasterHead">
-</p>
+![StephJBowCoder](https://github.com/StephJBow/StephJBow/assets/136998085/15d015b7-c0ba-4453-a45d-db8a45f643ac)
+
 
 <h1 align="center">Hello, I'm Steph</h1>
 <h3 align="center">A Junior Software Developer based in Edinburgh. In 2023 I graduated from the Professional Software Development bootcamp with CodeClan and CodeBase, Scotland’s Digital Skills Academy, having previously worked in marketing and communications management. I'm now seeking a new challenge and career within the tech industry.</h3>
