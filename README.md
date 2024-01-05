@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello, I'm Steph</h1>
-<h3 align="center">A Junior Software Developer based in Edinburgh. In 2023 I graduated from the Professional Software Development bootcamp with CodeClan and CodeBase, Scotland’s Digital Skills Academy, having previously worked in marketing and communications management. I'm now seeking a new challenge and career within the tech industry.</h3>
+<h3 align="center">A Junior Software Developer based in Edinburgh. In 2023 I graduated from the Professional Software Development bootcamp with CodeClan and CodeBase, Scotland’s Digital Skills Academy, having previously worked in marketing and communications management. I'm now seeking a new challenge and career within the UK tech industry.</h3>
 
 
 <h3 align="left">How to reach me:</h3>
